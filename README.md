@@ -3,7 +3,7 @@
 ![Dashboard Overview](dashboard-overview.png)
 
 ## 📌 Project Overview
-This project analyzes retail sales performance using the Global Superstore dataset, with a focus on understanding how discount strategies impact profitability across markets, categories, and sub-categories.
+This project analyzes retail sales performance using the Global Superstore dataset, with a focus on understanding how discount strategies impact profitability across markets, categories and sub-categories.
 
 ## 🎯 Business Problem
 Retail leadership needed to determine whether aggressive discounting was driving sustainable revenue growth or eroding profit margins.
